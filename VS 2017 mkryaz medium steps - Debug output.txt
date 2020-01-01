@@ -1,0 +1,216 @@
+'HoloLensDemo.exe' (Win32): Loaded 'U:\USERS\DefaultAccount\AppData\Local\DevelopmentFiles\Template3DVS.Debug_Win32.dev\HoloLensDemo.exe'. Symbols loaded.
+'HoloLensDemo.exe' (Win32): Loaded 'C:\Windows\System32\ntdll.dll'. Symbols loaded.
+'HoloLensDemo.exe' (Win32): Loaded 'C:\Windows\System32\KernelBase.dll'. Symbols loaded.
+'HoloLensDemo.exe' (Win32): Loaded 'C:\Windows\System32\combase.dll'. Symbols loaded.
+'HoloLensDemo.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbase.dll'. Symbols loaded.
+'HoloLensDemo.exe' (Win32): Loaded 'C:\Windows\System32\rpcrt4.dll'. Symbols loaded.
+'HoloLensDemo.exe' (Win32): Loaded 'C:\Windows\System32\kernel32legacy.dll'. Symbols loaded.
+'HoloLensDemo.exe' (Win32): Loaded 'C:\Windows\System32\bcryptprimitives.dll'. Symbols loaded.
+'HoloLensDemo.exe' (Win32): Loaded 'U:\Programs\WindowsApps\Microsoft.VCLibs.140.00.Debug_14.0.27323.0_x86__8wekyb3d8bbwe\vccorlib140d_app.dll'. Symbols loaded.
+'HoloLensDemo.exe' (Win32): Loaded 'C:\Windows\System32\oleaut32.dll'. Symbols loaded.
+'HoloLensDemo.exe' (Win32): Loaded 'C:\Windows\System32\msvcp_win.dll'. Symbols loaded.
+'HoloLensDemo.exe' (Win32): Loaded 'U:\Programs\WindowsApps\Microsoft.VCLibs.140.00.Debug_14.0.27323.0_x86__8wekyb3d8bbwe\vcruntime140d_app.dll'. Symbols loaded.
+'HoloLensDemo.exe' (Win32): Loaded 'U:\USERS\DefaultAccount\AppData\Local\DevelopmentFiles\Template3DVS.Debug_Win32.dev\ucrtbased.dll'. Symbols loaded.
+'HoloLensDemo.exe' (Win32): Loaded 'U:\Programs\WindowsApps\Microsoft.VCLibs.140.00.Debug_14.0.27323.0_x86__8wekyb3d8bbwe\msvcp140d_app.dll'. Symbols loaded.
+'HoloLensDemo.exe' (Win32): Loaded 'C:\Windows\System32\forwarders\kernel32.dll'. Symbols loaded.
+The thread 0x12d8 has exited with code 0 (0x0).
+'HoloLensDemo.exe' (Win32): Loaded 'C:\Windows\System32\procthreadexthost.dll'. Symbols loaded.
+'HoloLensDemo.exe' (Win32): Loaded 'C:\Windows\System32\msvcrt.dll'. Symbols loaded.
+'HoloLensDemo.exe' (Win32): Loaded 'C:\Windows\System32\kernel.appcore.dll'. Symbols loaded.
+'HoloLensDemo.exe' (Win32): Loaded 'C:\Windows\System32\twinapi.appcore.dll'. Symbols loaded.
+'HoloLensDemo.exe' (Win32): Loaded 'C:\Windows\System32\sechost.dll'. Symbols loaded.
+'HoloLensDemo.exe' (Win32): Loaded 'C:\Windows\System32\rmclient.dll'. Symbols loaded.
+'HoloLensDemo.exe' (Win32): Loaded 'C:\Windows\System32\WinTypes.dll'. Symbols loaded.
+'HoloLensDemo.exe' (Win32): Loaded 'C:\Windows\System32\SHCore.dll'. Symbols loaded.
+'HoloLensDemo.exe' (Win32): Loaded 'C:\Windows\System32\Windows.UI.dll'. Symbols loaded.
+'HoloLensDemo.exe' (Win32): Loaded 'C:\Windows\System32\win32u.dll'. Symbols loaded.
+'HoloLensDemo.exe' (Win32): Loaded 'C:\Windows\System32\InputHost.dll'. Symbols loaded.
+'HoloLensDemo.exe' (Win32): Loaded 'C:\Windows\System32\TextInputFramework.dll'. Symbols loaded.
+'HoloLensDemo.exe' (Win32): Loaded 'C:\Windows\System32\MinUser.dll'. Symbols loaded.
+'HoloLensDemo.exe' (Win32): Loaded 'C:\Windows\System32\dcomp.dll'. Symbols loaded.
+'HoloLensDemo.exe' (Win32): Loaded 'C:\Windows\System32\CoreUIComponents.dll'. Symbols loaded.
+'HoloLensDemo.exe' (Win32): Loaded 'C:\Windows\System32\CoreMessaging.dll'. Symbols loaded.
+'HoloLensDemo.exe' (Win32): Loaded 'C:\Windows\System32\gdi32.dll'. Symbols loaded.
+'HoloLensDemo.exe' (Win32): Loaded 'C:\Windows\System32\gdi32.dll'. Symbols loaded.
+'HoloLensDemo.exe' (Win32): Loaded 'C:\Windows\System32\gdi32min.dll'. Symbols loaded.
+'HoloLensDemo.exe' (Win32): Unloaded 'C:\Windows\System32\gdi32.dll'
+'HoloLensDemo.exe' (Win32): Loaded 'C:\Windows\System32\d3d11.dll'. Symbols loaded.
+'HoloLensDemo.exe' (Win32): Loaded 'C:\Windows\System32\propsys.dll'. Symbols loaded.
+'HoloLensDemo.exe' (Win32): Loaded 'C:\Windows\System32\ntmarta.dll'. Symbols loaded.
+'HoloLensDemo.exe' (Win32): Loaded 'C:\Windows\System32\dxgi.dll'. Symbols loaded.
+'HoloLensDemo.exe' (Win32): Loaded 'C:\Windows\System32\advapi32legacy.dll'. Symbols loaded.
+'HoloLensDemo.exe' (Win32): Loaded 'C:\Windows\System32\sspicli.dll'. Symbols loaded.
+'HoloLensDemo.exe' (Win32): Loaded 'C:\Windows\System32\bcrypt.dll'. Symbols loaded.
+'HoloLensDemo.exe' (Win32): Loaded 'C:\Windows\System32\d2d1.dll'. Symbols loaded.
+'HoloLensDemo.exe' (Win32): Loaded 'C:\Windows\System32\OneCoreUAPCommonProxyStub.dll'. Symbols loaded.
+'HoloLensDemo.exe' (Win32): Loaded 'C:\Windows\System32\Windows.Graphics.dll'. Symbols loaded.
+'HoloLensDemo.exe' (Win32): Loaded 'C:\Windows\System32\cfgmgr32.dll'. Symbols loaded.
+'HoloLensDemo.exe' (Win32): Loaded 'C:\Windows\System32\Windows.Shell.ServiceHostBuilder.dll'. Symbols loaded.
+'HoloLensDemo.exe' (Win32): Loaded 'U:\USERS\DefaultAccount\AppData\Local\DevelopmentFiles\Template3DVS.Debug_Win32.dev\UnityPlayer.dll'. Cannot find or open the PDB file.
+'HoloLensDemo.exe' (Win32): Loaded 'C:\Windows\System32\ws2_32.dll'. Symbols loaded.
+'HoloLensDemo.exe' (Win32): Loaded 'C:\Windows\System32\D3D12.dll'. Symbols loaded.
+'HoloLensDemo.exe' (Win32): Loaded 'C:\Windows\System32\crypt32.dll'. Symbols loaded.
+'HoloLensDemo.exe' (Win32): Loaded 'C:\Windows\System32\mfreadwrite.dll'. Symbols loaded.
+'HoloLensDemo.exe' (Win32): Loaded 'U:\Programs\WindowsApps\Microsoft.VCLibs.140.00.Debug_14.0.27323.0_x86__8wekyb3d8bbwe\vccorlib140_app.dll'. Symbols loaded.
+'HoloLensDemo.exe' (Win32): Loaded 'C:\Windows\System32\mfplat.dll'. Symbols loaded.
+'HoloLensDemo.exe' (Win32): Loaded 'C:\Windows\System32\forwarders\version.dll'. Symbols loaded.
+'HoloLensDemo.exe' (Win32): Loaded 'C:\Windows\System32\msasn1.dll'. Symbols loaded.
+'HoloLensDemo.exe' (Win32): Loaded 'C:\Windows\System32\MMDevAPI.dll'. Symbols loaded.
+'HoloLensDemo.exe' (Win32): Loaded 'U:\Programs\WindowsApps\Microsoft.VCLibs.140.00.Debug_14.0.27323.0_x86__8wekyb3d8bbwe\vcruntime140_app.dll'. Symbols loaded.
+'HoloLensDemo.exe' (Win32): Loaded 'U:\Programs\WindowsApps\Microsoft.VCLibs.140.00.Debug_14.0.27323.0_x86__8wekyb3d8bbwe\msvcp140_app.dll'. Symbols loaded.
+'HoloLensDemo.exe' (Win32): Loaded 'C:\Windows\System32\RTWorkQ.dll'. Symbols loaded.
+'HoloLensDemo.exe' (Win32): Loaded 'C:\Windows\System32\devobj.dll'. Symbols loaded.
+'HoloLensDemo.exe' (Win32): Loaded 'C:\Windows\System32\ExecModelClient.dll'. Symbols loaded.
+'HoloLensDemo.exe' (Win32): Loaded 'C:\Windows\System32\Windows.Storage.ApplicationData.dll'. Symbols loaded.
+'HoloLensDemo.exe' (Win32): Loaded 'C:\Windows\System32\windows.storage.dll'. Symbols loaded.
+'HoloLensDemo.exe' (Win32): Loaded 'C:\Windows\System32\powrprof.dll'. Symbols loaded.
+'HoloLensDemo.exe' (Win32): Loaded 'C:\Windows\System32\shlwapi_onecore.dll'. Symbols loaded.
+'HoloLensDemo.exe' (Win32): Loaded 'C:\Windows\System32\shlwapi_onecore.dll'. Symbols loaded.
+'HoloLensDemo.exe' (Win32): Unloaded 'C:\Windows\System32\shlwapi_onecore.dll'
+'HoloLensDemo.exe' (Win32): Loaded 'C:\Windows\System32\profapi.dll'. Symbols loaded.
+'HoloLensDemo.exe' (Win32): Loaded 'C:\Windows\System32\MrmCoreR.dll'. Symbols loaded.
+CreateDirectory 'C:/Data' failed: Operation has failed with error 0xb7: Cannot create a file when that file already exists.
+ (current dir: C:/Data/Users/DefaultAccount/AppData/Local/DevelopmentFiles/Template3DVS.Debug_Win32.dev/Data)
+Logging to C:/Data/Users/NineD/AppData/Local/Packages/Template3D_pzq3xp76mxafg/TempState/UnityPlayer.log
+[0.550809 / 0.574656] - Initializing Unity runtime
+Loading native plugins
+  Loading AudioPluginMsHRTF.dll
+'HoloLensDemo.exe' (Win32): Loaded 'U:\USERS\DefaultAccount\AppData\Local\DevelopmentFiles\Template3DVS.Debug_Win32.dev\AudioPluginMsHRTF.dll'. Cannot find or open the PDB file.
+'HoloLensDemo.exe' (Win32): Loaded 'C:\Windows\System32\HrtfApo.dll'. Cannot find or open the PDB file.
+Module information:
+ Built with Compiler Ver '191627012'
+ Built from '2019.2/staging' branch
+ Version is '2019.2.0f1 (20c1667945cf)'
+ Debug build
+ Application type 'D3D'
+'HoloLensDemo.exe' (Win32): Loaded 'C:\Windows\System32\execmodelproxy.dll'. Symbols loaded.
+'HoloLensDemo.exe' (Win32): Loaded 'C:\Windows\System32\Windows.Devices.Enumeration.dll'. Symbols loaded.
+Exception thrown at 0x76B33072 in HoloLensDemo.exe: Microsoft C++ exception: Cn::XH at memory location 0x017CE724.
+onecoreuap\windows\moderncore\inputv2\inputhost\components\cursor\client\cursorclient.cpp(43)\InputHost.dll!6EA1AAA3: (caller: 6EA1AC1C) ReturnHr(1) tid(140c) 87B20809 onecoreuap\windows\moderncore\inputv2\inputhost\components\cursor\client\cursorclient.cpp(75)\InputHost.dll!6EA1AC33: (caller: 6E9E951D) ReturnHr(2) tid(140c) 87B20809 'HoloLensDemo.exe' (Win32): Loaded 'C:\Windows\System32\UiaManager.dll'. Symbols loaded.
+'HoloLensDemo.exe' (Win32): Loaded 'C:\Windows\System32\Windows.UI.Core.TextInput.dll'. Symbols loaded.
+[0.002452 / 1.349119] - AppCallbacks::SetCoreWindowEvents
+'HoloLensDemo.exe' (Win32): Loaded 'C:\Windows\System32\Windows.Perception.Stub.dll'. Symbols loaded.
+'HoloLensDemo.exe' (Win32): Loaded 'C:\Windows\System32\Windows.Mirage.dll'. Symbols loaded.
+wil(439)\Windows.Mirage.dll!6F30CB6F: (caller: 6F30C996) ReturnHr(1) tid(16ec) 80070005 Access is denied.
+'HoloLensDemo.exe' (Win32): Loaded 'C:\Windows\System32\d3d10warp.dll'. Symbols loaded.
+'HoloLensDemo.exe' (Win32): Loaded 'C:\Windows\System32\ResourcePolicyClient.dll'. Symbols loaded.
+'HoloLensDemo.exe' (Win32): Unloaded 'C:\Windows\System32\ResourcePolicyClient.dll'
+[0.201690 / 1.551392] - AppCallbacks::InitializeD3DWindow
+'HoloLensDemo.exe' (Win32): Loaded 'C:\Windows\System32\cryptbase.dll'. Symbols loaded.
+[1.578889 / 1.578889] - OnActivated event.
+[0.018212 / 1.597101] - OnVisibilityChanged event - Visible.
+[0.002556 / 1.599657] - OnWindowActivated event - CodeActivated.
+[0.018529 / 1.618187] - OnCoreWindowSizeChanged event (0.00, 0.00, 853.33, 480.00), m_Initialized=False.
+ OS 'Windows 10 (10.0.17763)'
+'HoloLensDemo.exe' (Win32): Loaded 'U:\USERS\DefaultAccount\AppData\Local\DevelopmentFiles\Template3DVS.Debug_Win32.dev\GameAssembly.dll'. Symbols loaded.
+'HoloLensDemo.exe' (Win32): Loaded 'C:\Windows\System32\IPHLPAPI.DLL'. Symbols loaded.
+[0.753159 / 2.371345] - OnCoreWindowSizeChanged event (0.00, 0.00, 853.33, 480.00), m_Initialized=False.
+PlayerConnection initialized from C:/Data/Users/DefaultAccount/AppData/Local/DevelopmentFiles/Template3DVS.Debug_Win32.dev/Data (debug = 0)
+'HoloLensDemo.exe' (Win32): Loaded 'C:\Windows\System32\mswsock.dll'. Symbols loaded.
+'HoloLensDemo.exe' (Win32): Loaded 'C:\Windows\System32\Windows.Networking.Connectivity.dll'. Symbols loaded.
+'HoloLensDemo.exe' (Win32): Loaded 'C:\Windows\System32\Windows.Networking.HostName.dll'. Symbols loaded.
+'HoloLensDemo.exe' (Win32): Loaded 'C:\Windows\System32\wshbth.dll'. Symbols loaded.
+'HoloLensDemo.exe' (Win32): Loaded 'C:\Windows\System32\dnsapi.dll'. Symbols loaded.
+'HoloLensDemo.exe' (Win32): Loaded 'C:\Windows\System32\nsi.dll'. Symbols loaded.
+'HoloLensDemo.exe' (Win32): Loaded 'C:\Windows\System32\dhcpcsvc6.dll'. Symbols loaded.
+'HoloLensDemo.exe' (Win32): Loaded 'C:\Windows\System32\dhcpcsvc.dll'. Symbols loaded.
+Exception thrown at 0x76B33072 (KernelBase.dll) in HoloLensDemo.exe: 0x000006A6: The binding handle is invalid.
+Exception thrown at 0x76B33072 (KernelBase.dll) in HoloLensDemo.exe: 0x000006A6: The binding handle is invalid.
+'HoloLensDemo.exe' (Win32): Loaded 'C:\Windows\System32\FWPUCLNT.DLL'. Symbols loaded.
+PlayerConnection initialized network socket : 0.0.0.0 55361
+'HoloLensDemo.exe' (Win32): Loaded 'C:\Windows\System32\nlaapi.dll'. Symbols loaded.
+'HoloLensDemo.exe' (Win32): Loaded 'C:\Windows\System32\Windows.ApplicationModel.dll'. Symbols loaded.
+Multi-casting "[IP] 192.168.2.66 [Port] 55361 [Flags] 2 [Guid] 4103434724 [EditorId] 3108107908 [Version] 1048832 [Id] UWPPlayerX86(HoloLens-SAQCC) [Debug] 0 [PackageName] Template3D_pzq3xp76mxafg" to [225.0.0.222:54997]...
+Started listening to [0.0.0.0:55361]
+PlayerConnection already initialized - listening to [0.0.0.0:55361]
+[2.585203 / 3.732174] - Initialize
+[XR] Discovering subsystems at path C:/Data/Users/DefaultAccount/AppData/Local/DevelopmentFiles/Template3DVS.Debug_Win32.dev/Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+'HoloLensDemo.exe' (Win32): Loaded 'C:\Windows\System32\DXGIDebug.dll'. Symbols loaded.
+'HoloLensDemo.exe' (Win32): Loaded 'C:\Windows\System32\igd10iumd32.dll'. Cannot find or open the PDB file.
+'HoloLensDemo.exe' (Win32): Loaded 'C:\Windows\System32\ncrypt.dll'. Symbols loaded.
+'HoloLensDemo.exe' (Win32): Unloaded 'C:\Windows\System32\ncrypt.dll'
+'HoloLensDemo.exe' (Win32): Unloaded 'C:\Windows\System32\igd10iumd32.dll'
+'HoloLensDemo.exe' (Win32): Loaded 'C:\Windows\System32\igd10iumd32.dll'. Cannot find or open the PDB file.
+'HoloLensDemo.exe' (Win32): Loaded 'C:\Windows\System32\ncrypt.dll'. Symbols loaded.
+'HoloLensDemo.exe' (Win32): Unloaded 'C:\Windows\System32\ncrypt.dll'
+'HoloLensDemo.exe' (Win32): Unloaded 'C:\Windows\System32\igd10iumd32.dll'
+'HoloLensDemo.exe' (Win32): Unloaded 'C:\Windows\System32\DXGIDebug.dll'
+'HoloLensDemo.exe' (Win32): Loaded 'C:\Windows\System32\igd10iumd32.dll'. Cannot find or open the PDB file.
+'HoloLensDemo.exe' (Win32): Loaded 'C:\Windows\System32\ncrypt.dll'. Symbols loaded.
+'HoloLensDemo.exe' (Win32): Unloaded 'C:\Windows\System32\ncrypt.dll'
+'HoloLensDemo.exe' (Win32): Unloaded 'C:\Windows\System32\igd10iumd32.dll'
+'HoloLensDemo.exe' (Win32): Loaded 'C:\Windows\System32\igd10iumd32.dll'. Cannot find or open the PDB file.
+'HoloLensDemo.exe' (Win32): Loaded 'C:\Windows\System32\ncrypt.dll'. Symbols loaded.
+'HoloLensDemo.exe' (Win32): Unloaded 'C:\Windows\System32\ncrypt.dll'
+'HoloLensDemo.exe' (Win32): Unloaded 'C:\Windows\System32\igd10iumd32.dll'
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Microsoft Basic Render Driver (ID=0x8c)
+    Vendor:   (null)
+    VRAM:     980 MB
+Initialize engine version: 2019.2.0f1 (20c1667945cf)
+[AudioManager] InitNormal(tryDeviceDefaults = false, preferredOutputType = FMOD_OUTPUTTYPE_AUTODETECT) attempt with hardAudioDisable: false
+[AudioManager] Setting output to FMOD_OUTPUTTYPE_AUTODETECT
+'HoloLensDemo.exe' (Win32): Loaded 'C:\Windows\System32\Windows.Media.Devices.dll'. Symbols loaded.
+'HoloLensDemo.exe' (Win32): Loaded 'C:\Windows\System32\DevDispItemProvider.dll'. Symbols loaded.
+'HoloLensDemo.exe' (Win32): Loaded 'C:\Windows\System32\AudioSes.dll'. Symbols loaded.
+'HoloLensDemo.exe' (Win32): Loaded 'C:\Windows\System32\avrt.dll'. Symbols loaded.
+'HoloLensDemo.exe' (Win32): Loaded 'C:\Windows\System32\threadpoolwinrt.dll'. Symbols loaded.
+[AudioManager] InitNormal succeeded with output "FMOD_OUTPUTTYPE_WASAPI". Driver name is "Speakers (Intel SST Audio Device (WDM))". Speaker mode is "FMOD_SPEAKERMODE_STEREO"
+The thread 0xb30 has exited with code 0 (0x0).
+The thread 0x4e0 has exited with code 0 (0x0).
+'HoloLensDemo.exe' (Win32): Loaded 'C:\Windows\System32\Windows.Gaming.Input.dll'. Symbols loaded.
+[0.001120 / 6.209391] - AppCallbacks::SetupInputEvents
+'HoloLensDemo.exe' (Win32): Loaded 'C:\Windows\System32\Windows.Devices.Sensors.dll'. Symbols loaded.
+'HoloLensDemo.exe' (Win32): Loaded 'C:\Windows\System32\biwinrt.dll'. Symbols loaded.
+onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!70F8F86B: (caller: 70F92723) ReturnHr(1) tid(e90) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!70F8F86B: (caller: 70F92723) ReturnHr(2) tid(e90) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!70F8F86B: (caller: 70F92723) ReturnHr(3) tid(e90) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!70F8F86B: (caller: 70F92723) ReturnHr(4) tid(e90) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!70F8F86B: (caller: 70F92723) ReturnHr(5) tid(e90) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!70F8F86B: (caller: 70F92723) ReturnHr(6) tid(e90) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!70F8F86B: (caller: 70F92723) ReturnHr(7) tid(e90) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!70F8F86B: (caller: 70F92723) ReturnHr(8) tid(e90) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!70F8F86B: (caller: 70F92723) ReturnHr(9) tid(e90) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!70F8F86B: (caller: 70F92723) ReturnHr(10) tid(e90) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!70F8F86B: (caller: 70F92723) ReturnHr(11) tid(e90) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!70F8F86B: (caller: 70F92723) ReturnHr(12) tid(e90) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!70F8F86B: (caller: 70F92723) ReturnHr(13) tid(e90) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!70F8F86B: (caller: 70F92723) ReturnHr(14) tid(e90) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!70F8F86B: (caller: 70F92723) ReturnHr(15) tid(e90) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!70F8F86B: (caller: 70F92723) ReturnHr(16) tid(e90) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!70F8F86B: (caller: 70F92723) ReturnHr(17) tid(e90) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!70F8F86B: (caller: 70F92723) ReturnHr(18) tid(e90) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!70F8F86B: (caller: 70F92723) ReturnHr(19) tid(e90) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!70F8F86B: (caller: 70F92723) ReturnHr(20) tid(e90) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!70F8F86B: (caller: 70F92723) ReturnHr(21) tid(e90) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!70F8F86B: (caller: 70F92723) ReturnHr(22) tid(e90) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!70F8F86B: (caller: 70F92723) ReturnHr(23) tid(e90) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!70F8F86B: (caller: 70F92723) ReturnHr(24) tid(e90) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!70F8F86B: (caller: 70F92723) ReturnHr(25) tid(e90) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!70F8F86B: (caller: 70F92723) ReturnHr(26) tid(e90) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!70F8F86B: (caller: 70F92723) ReturnHr(27) tid(e90) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!70F8F86B: (caller: 70F92723) ReturnHr(28) tid(e90) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!70F8F86B: (caller: 70F92723) ReturnHr(29) tid(e90) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!70F8F86B: (caller: 70F92723) ReturnHr(30) tid(e90) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!70F8F86B: (caller: 70F92723) ReturnHr(31) tid(e90) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!70F8F86B: (caller: 70F92723) ReturnHr(32) tid(e90) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!70F8F86B: (caller: 70F92723) ReturnHr(33) tid(e90) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!70F8F86B: (caller: 70F92723) ReturnHr(34) tid(e90) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!70F8F86B: (caller: 70F92723) ReturnHr(35) tid(e90) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!70F8F86B: (caller: 70F92723) ReturnHr(36) tid(e90) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!70F8F86B: (caller: 70F92723) ReturnHr(37) tid(e90) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!70F8F86B: (caller: 70F92723) ReturnHr(38) tid(e90) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!70F8F86B: (caller: 70F92723) ReturnHr(39) tid(e90) 8685C003 Exception thrown at 0x76B33072 (KernelBase.dll) in HoloLensDemo.exe: WinRT originate error - 0x80040111 : 'Windows.UI.WindowManagement.DisplayRegion'.
+'HoloLensDemo.exe' (Win32): Loaded 'C:\Windows\System32\userenv.dll'. Symbols loaded.
+'HoloLensDemo.exe' (Win32): Loaded 'C:\Windows\System32\profext.dll'. Symbols loaded.
+onecoreuap\drivers\mobilepc\sensors\convergence\api\winrt\public\internal\viewpositiontrackerinternal.h(94)\Windows.Devices.Sensors.dll!5A0733D0: (caller: 5A0723EF) Exception(1) tid(140c) 80040111 ClassFactory cannot supply requested class
+Exception thrown at 0x76B33072 in HoloLensDemo.exe: Microsoft C++ exception: wil::ResultException at memory location 0x017CDAF0.
+Exception thrown at 0x76B33072 in HoloLensDemo.exe: Microsoft C++ exception: [rethrow] at memory location 0x00000000.
+onecoreuap\drivers\mobilepc\sensors\convergence\api\winrt\public\internal\simpleorientation.cpp(127)\Windows.Devices.Sensors.dll!5A071AA7: (caller: 5A06B5FC) Exception(2) tid(140c) 80070490 Element not found.
+Exception thrown at 0x76B33072 in HoloLensDemo.exe: Microsoft C++ exception: wil::ResultException at memory location 0x017CDD38.
+Exception thrown at 0x76B33072 in HoloLensDemo.exe: Microsoft C++ exception: [rethrow] at memory location 0x00000000.
+onecoreuap\drivers\mobilepc\sensors\convergence\api\winrt\public\internal\sensorserver.cpp(46)\Windows.Devices.Sensors.dll!5A068561: (caller: 5A06591F) ReturnHr(1) tid(140c) 80070490 Element not found.
+onecoreuap\drivers\mobilepc\sensors\convergence\api\winrt\public\lib\simpleorientationsensor.cpp(160)\Windows.Devices.Sensors.dll!5A0CB90D: (caller: 5A0C9E09) ReturnHr(2) tid(140c) 80070490 Element not found.
+[0.240430 / 6.450355] - AppCallbacks::SetupOrientationSensorEvents
+'HoloLensDemo.exe' (Win32): Loaded 'C:\Windows\System32\windows.applicationmodel.datatransfer.dll'. Symbols loaded.
+'HoloLensDemo.exe' (Win32): Loaded 'C:\Windows\System32\coml2.dll'. Symbols loaded.
+'HoloLensDemo.exe' (Win32): Loaded 'C:\Windows\System32\ie_shims.dll'. Symbols loaded.
+'HoloLensDemo.exe' (Win32): Loaded 'C:\Windows\System32\iertutil.dll'. Symbols loaded.
+'HoloLensDemo.exe' (Win32): Loaded 'C:\Windows\System32\ClipboardServer.dll'. Symbols loaded.
+[0.428320 / 6.568083] - AppCallbacks::Load
+[4.199755 / 6.571100] - Starting first scene loading
+The following GlobalManagers were stripped from the build (Either because they're not used or not supported on this platform):
+  ClusterInputManager
+If your machine has multiple graphics adapters, Unity may have created a WindowContext on the wrong adapter. If you experience a black screen when playing, please restart the Editor.
+ 
+(Filename: C:\buildslave\unity\build\Modules/VR/VRDevice.cpp Line: 323)
+
+Created eye textures with a "separate" layout.  The "multi-pass" stereo mode will be used.
+
+[0.040815 / 6.611916] - OnCoreWindowSizeChanged event (0.00, 0.00, 845.33, 480.00), m_Initialized=True.
+[0.097316 / 6.709231] - Finishing first scene loading
+[0.001447 / 6.710678] - First level loaded
+[0.001906 / 6.712585] - PerformUpdateAndRender started
+Windows Mixed Reality spatial locatability state changed to Active.
+ 
+(Filename: C:\buildslave\unity\build\Modules/VR/HoloLens/HoloLensWorldManager.cpp Line: 324)
+
+UnloadTime: 10.736700 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 17b8 -> priority: 1 
+The thread 0x179c has exited with code 0 (0x0).
+The thread 0x208 has exited with code 0 (0x0).
+The thread 0x78c has exited with code 0 (0x0).
+'HoloLensDemo.exe' (Win32): Unloaded 'C:\Windows\System32\Windows.Shell.ServiceHostBuilder.dll'
+'HoloLensDemo.exe' (Win32): Unloaded 'C:\Windows\System32\execmodelproxy.dll'
+'HoloLensDemo.exe' (Win32): Unloaded 'C:\Windows\System32\biwinrt.dll'
+'HoloLensDemo.exe' (Win32): Unloaded 'C:\Windows\System32\Windows.Devices.Sensors.dll'
+'HoloLensDemo.exe' (Win32): Unloaded 'C:\Windows\System32\Windows.ApplicationModel.dll'
+'HoloLensDemo.exe' (Win32): Unloaded 'C:\Windows\System32\Windows.Networking.HostName.dll'
+'HoloLensDemo.exe' (Win32): Unloaded 'C:\Windows\System32\Windows.Networking.Connectivity.dll'
+The thread 0x12b4 has exited with code 0 (0x0).
+The thread 0x16d8 has exited with code 0 (0x0).
