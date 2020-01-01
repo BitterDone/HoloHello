@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+// using Confluent.Kafka;
 
 public class KafkaDisplay : MonoBehaviour {
 
@@ -8,9 +9,7 @@ public class KafkaDisplay : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		// floatingText = GetComponent<TextMesh>();
-		// floatingText = gameObject.GetComponent(typeof(TextMesh)) as TextMesh;
-		// floatingText = GetComponent(typeof(TextMesh)) as TextMesh;
+		// var config = new ProducerConfig { BootstrapServers = "192.168.2.150:9092" };
 
 
 		if(floatingText != null)
