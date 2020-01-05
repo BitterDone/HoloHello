@@ -10,8 +10,8 @@ public class BlockControlScript : MonoBehaviour
     public float fallTime = .8f;
 
     public static int height = 20;
-    public static int width = 20;
-    public static Transform[,] grid = new Transform[width, height];//double width since 3D +1 for 0
+    public static int width = 10;
+    public static Transform[,] grid = new Transform[width, height];
 
 	// Use this for initialization
 	void Start ()
@@ -81,8 +81,7 @@ public class BlockControlScript : MonoBehaviour
             int roundX = Mathf.RoundToInt(c.transform.position.x);
             int roundY = Mathf.RoundToInt(c.transform.position.y);
 
-            Debug.LogFormat("{0}, {1}", roundX, roundY);
-            if (roundX < 0 || roundX > width || roundY < 0)
+            if (roundX < 0 || roundX >= width || roundY < 0)
             {
                 return false;
             }
